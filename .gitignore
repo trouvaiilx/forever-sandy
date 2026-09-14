@@ -1,0 +1,36 @@
+# -----------------------------------------------------------------------------
+# Forever Sandy - Git Ignore Rules
+# -----------------------------------------------------------------------------
+
+# Runtime User Configuration & State (do not commit personal settings)
+**/settings.json
+
+# Cyber Engine Tweaks & Game Logs
+*.log
+bin/x64/plugins/cyber_engine_tweaks/cyber_engine_tweaks.log
+bin/x64/plugins/cyber_engine_tweaks/mods/**/log.txt
+
+# Redscript Compiler Cache & Backups
+r6/cache/
+*.reds.bk
+
+# Distribution Archives & Build Output
+dist/
+build/
+*.zip
+*.7z
+*.rar
+*.tar.gz
+
+# IDE & Editor Directories
+.vscode/
+.idea/
+*.suo
+*.user
+*.workspace
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
