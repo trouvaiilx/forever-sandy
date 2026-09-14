@@ -188,3 +188,26 @@ This chrome wasn't forged in a vacuum. Big respect to the legends:
 
 [i][color=#fcee0a]Enjoy the speed, V. Try not to burn out your synapses.[/color][/i][/center]
 ```
+
+---
+
+## File Description (For Nexus "Files" Tab Upload)
+
+```text
+The definitive edition of Forever Sandy. Adds full bidirectional control (0.1x - 10.0x duration, 0.1x - 5.0x cooldown) for both god-mode and hardcore tactical challenge. Rebuilt with a clean ScriptableSystem that natively preserves Reflex attribute scaling and leaves other perks untouched.
+```
+
+---
+
+## Version 2.1.0 Changelog (For Nexus "Changelogs" Entry)
+
+```text
+Added bidirectional Duration Multiplier (0.1x to 10.0x), enabling short tactical burst challenge mode (<1.0x) or extended duration (>1.0x).
+Added bidirectional Cooldown Multiplier (0.1x to 5.0x), enabling accelerated recharge (<1.0x) or extended cooldown penalties (>1.0x).
+Setting sliders to 1.0x now cleanly detaches custom modifiers, leaving the player in 100% vanilla state.
+Migrated to ScriptableSystem with isolated modifier handles, fixing native Reflex duration scaling (+0.1s/reflex) and preserving other perks/stats.
+Optimized engine performance by removing busy polling loops and synchronizing stats automatically upon session load.
+Added automatic backwards-compatible migration for legacy settings.json configurations.
+Removed redundant custom reset button in favor of Native Settings UI's built-in default reset.
+```
+
