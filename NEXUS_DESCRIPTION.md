@@ -194,7 +194,7 @@ This chrome wasn't forged in a vacuum. Big respect to the legends:
 ## File Description (For Nexus "Files" Tab Upload)
 
 ```text
-The definitive edition of Forever Sandy. Adds full bidirectional control (0.1x - 10.0x duration, 0.1x - 5.0x cooldown) for both god-mode and hardcore tactical challenge. Rebuilt with a clean ScriptableSystem that natively preserves Reflex attribute scaling and leaves other perks untouched.
+The definitive edition of Forever Sandy. Full bidirectional control (0.1x–10x duration, 0.1x–5x cooldown) for god-mode or hardcore challenge. Clean ScriptableSystem natively preserves Reflex scaling and perks with zero performance overhead.
 ```
 
 ---
