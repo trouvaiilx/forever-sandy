@@ -88,7 +88,7 @@ The daemon now uses isolated modifier handles. It multiplies your [b]TOTAL DURAT
 [list=1]
 [*][url=https://www.nexusmods.com/cyberpunk2077/mods/1511]Redscript[/url] (v0.5.32+)[/*]
 [*][url=https://www.nexusmods.com/cyberpunk2077/mods/107]Cyber Engine Tweaks[/url] (v1.38.1+)[/*]
-[*][url=https://www.nexusmods.com/cyberpunk2077/mods/3518]Native Settings UI[/url][/*]
+[*][url=https://www.nexusmods.com/cyberpunk2077/mods/3518]Native Settings UI[/url] (1.97+)[/*]
 [/list]
 
 
