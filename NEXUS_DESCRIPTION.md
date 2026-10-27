@@ -17,7 +17,7 @@ Tired of your Sandy fizzling out, or is late-game feeling too easy? Dial your Du
 [size=6][b][color=#2dfcfa]FOREVER SANDY[/color][/b][/size]
 [size=3][i][color=#fcee0a]Unlock the factory limiters on your speedware — or handicap it for the ultimate challenge.[/color][/i][/size]
 
-[size=4][b][color=#00ff00]✓ PATCH 2.31 SUPPORTED[/color][/b][/size]
+[size=4][b][color=#00ff00]✓ PATCH 2.5 SUPPORTED[/color][/b][/size]
 [size=3][b][color=#2dfcfa]⚡ v2.1: GOD-MODE & HARDCORE CHALLENGE UPDATE[/color][/b][/size]
 
 [img]https://i.imgur.com/67cfqRp.gif[/img]
@@ -86,8 +86,8 @@ The daemon now uses isolated modifier handles. It multiplies your [b]TOTAL DURAT
 [i]You need the right drivers to run this chrome, choom.[/i]
 
 [list=1]
-[*][url=https://www.nexusmods.com/cyberpunk2077/mods/1511]Redscript[/url] (v0.5+)[/*]
-[*][url=https://github.com/maximegmd/CyberEngineTweaks]Cyber Engine Tweaks[/url] (v1.37+)[/*]
+[*][url=https://www.nexusmods.com/cyberpunk2077/mods/1511]Redscript[/url] (v0.5.32+)[/*]
+[*][url=https://www.nexusmods.com/cyberpunk2077/mods/107]Cyber Engine Tweaks[/url] (v1.38.1+)[/*]
 [*][url=https://www.nexusmods.com/cyberpunk2077/mods/3518]Native Settings UI[/url][/*]
 [/list]
 
